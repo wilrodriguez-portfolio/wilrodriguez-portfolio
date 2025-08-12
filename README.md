@@ -16,6 +16,13 @@ Helping organizations design, build, and optimize technology solutions.
 
 ---
 
+## 📜 Certifications
+
+- AWS Certified Cloud Practitioner *(in progress)*
+- CompTIA Network+ *(in progress)*
+- CompTIA Security+ *(planned)*
+
+
 ## 📊 GitHub Stats  
 ![Wilfredo's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilrodriguez-portfolio&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wilrodriguez-portfolio&layout=compact&theme=radical)  
@@ -34,6 +41,8 @@ Helping organizations design, build, and optimize technology solutions.
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
 </p>
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash&logoColor=white)
+
 
 ---
 
