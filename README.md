@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m Wil Rodriguez
 
-🎯 **IT & TELECOM | Cloud | Data | Automation | Project Delivery**  
+🎯 **IT & Telecom | Cloud | Data | Automation | Project Delivery**  
 Helping organizations design, build, and optimize technology solutions.
 
 
