@@ -31,7 +31,6 @@ Helping organizations design, build, and optimize technology solutions.
 ---
 
 ## 🛠 Tools & Technologies  
-## 🛠 Tools & Technologies
 
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=power-bi)
@@ -42,6 +41,7 @@ Helping organizations design, build, and optimize technology solutions.
 ![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)
 ![Confluence](https://img.shields.io/badge/-Confluence-05122A?style=flat&logo=confluence)
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash&logoColor=white)
+
 
 ---
 
