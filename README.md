@@ -27,6 +27,7 @@ Now expanding into **AI-driven automation, secure infrastructure, and data intel
 
 ## 🎓 Certifications
 
+
 | Certification | Issuing Organization | Status |
 |---------------|----------------------|--------|
 | AWS Certified Cloud Practitioner | Amazon Web Services | In Progress |
@@ -39,6 +40,7 @@ Now expanding into **AI-driven automation, secure infrastructure, and data intel
 
 ---
 
+
 ## 🛠 Tools & Technologies
 
 **Cloud:** AWS, Azure (basics), Google Cloud (basics)  
@@ -47,7 +49,9 @@ Now expanding into **AI-driven automation, secure infrastructure, and data intel
 **Other:** Project Management, Process Automation, Telecom Infrastructure
 
 
+
 ## 🧰 Skills & Tools
+
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -65,6 +69,7 @@ Now expanding into **AI-driven automation, secure infrastructure, and data intel
 
 
 ## 📊 GitHub Stats
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wilrodriguez-portfolio&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wilrodriguez-portfolio&layout=compact&theme=radical)
