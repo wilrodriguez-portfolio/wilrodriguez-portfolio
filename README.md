@@ -30,8 +30,8 @@ Explore my live, interactive portfolio here:
 ## 📫 Contact Me
 
 - **Email:** [wilrodriguez.portfolio@gmail.com](mailto:wilrodriguez.portfolio@gmail.com)  
-- **LinkedIn:** [Your LinkedIn URL](#)  
-- **Portfolio Site:** [https://YOURUSERNAME.github.io](https://YOURUSERNAME.github.io)  
+- **LinkedIn:https://www.linkedin.com/in/wil-rodriguez/  
+
 
 
 
