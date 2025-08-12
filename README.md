@@ -39,13 +39,6 @@ Now expanding into **AI-driven automation, secure infrastructure, and data intel
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wilrodriguez-portfolio&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wilrodriguez-portfolio&layout=compact&theme=radical)
-
----
-
 ## 🛠 Tools & Technologies
 
 **Cloud:** AWS, Azure (basics), Google Cloud (basics)  
@@ -53,7 +46,6 @@ Now expanding into **AI-driven automation, secure infrastructure, and data intel
 **Dev Tools:** GitHub, Postman, Jira, Confluence, VS Code  
 **Other:** Project Management, Process Automation, Telecom Infrastructure
 
----
 
 ## 🧰 Skills & Tools
 
@@ -70,7 +62,15 @@ Now expanding into **AI-driven automation, secure infrastructure, and data intel
 ![Word](https://img.shields.io/badge/Word-2B579A.svg?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wilrodriguez-portfolio&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wilrodriguez-portfolio&layout=compact&theme=radical)
+
 ---
+
 
 ## 📬 Contact Me
 
