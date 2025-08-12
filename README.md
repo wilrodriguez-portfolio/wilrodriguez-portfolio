@@ -1,11 +1,10 @@
 ![Portfolio Banner](https://raw.githubusercontent.com/wilrodriguez-portfolio/wilrodriguez-portfolio/refs/heads/main/BLack%20Minimalist%20Banner.wilrodriguezportfolio.png)
 
-# 👋 Hi, I’m Wilfredo Rodriguez
+# 👋 Hi, I’m Wil Rodriguez
 
-🎯 **Cloud | Data | Automation | Project Delivery**  
+🎯 **IT & TELECOM | Cloud | Data | Automation | Project Delivery**  
 Helping organizations design, build, and optimize technology solutions.
 
----
 
 ## 📂 Featured Projects
 Explore my live, interactive portfolio here:  
