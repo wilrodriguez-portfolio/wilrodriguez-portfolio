@@ -1,21 +1,21 @@
 ![Portfolio Banner](https://raw.githubusercontent.com/wilrodriguez-portfolio/wilrodriguez-portfolio/refs/heads/main/BLack%20Minimalist%20Banner.wilrodriguezportfolio.png)
 
-  # 👋 Hi, I’m Wil Rodriguez  
+# 👋 Hi, I’m Wil Rodriguez
+
 **Bridging 20+ years of Telecom leadership with emerging skills in AI, Cloud, and Security.**
 
-
 **Telecom | Project Management | Process Implementation | Cloud | AI | Security**  
-Helping organizations **design, deliver, and optimize technology solutions** through efficient processes and effective project execution.  
+Helping organizations **design, deliver, and optimize technology solutions** through efficient processes and effective project execution.
 
-With over 20 years in **IT and Telecom**, I specialize in **project delivery, process improvement, and cross-team coordination** to ensure initiatives are delivered on time, within scope, and aligned with business goals. My expertise spans **Telecom infrastructure, cloud adoption, and operational automation**, with a proven track record of improving workflows and reducing costs.  
+With over 20 years in **IT and Telecom**, I specialize in **project delivery, process improvement, and cross-team coordination** to ensure initiatives are delivered on time, within scope, and aligned with business goals. My expertise spans **Telecom infrastructure, cloud adoption, and operational automation**, with a proven track record of improving workflows and reducing costs.
 
-Currently expanding into **Cloud Architecture, AI-driven automation, and Cybersecurity**, I am building solutions that combine **data intelligence, secure infrastructure, and innovative technologies** to solve real-world challenges.  
-
+Currently expanding into **Cloud Architecture, AI-driven automation, and Cybersecurity**, I am building solutions that combine **data intelligence, secure infrastructure, and innovative technologies** to solve real-world challenges.
 
 ---
 
-## 🚀 Featured Projects  
-📌 Explore my live, interactive portfolio: [View Projects](#)
+## 🚀 Featured Projects
+
+🔗 Explore my live, interactive portfolio: [**View Projects**](https://github.com/wilrodriguez-portfolio?tab=repositories)
 
 | Project | Description | Live | GitHub |
 |---------|-------------|------|--------|
@@ -24,39 +24,28 @@ Currently expanding into **Cloud Architecture, AI-driven automation, and Cyberse
 
 ---
 
-## 📜 Certifications
+## 🎓 Certifications
 
-- AWS Certified Cloud Practitioner *(in progress)*
-- CompTIA Network+ *(in progress)*
-- CompTIA Security+ *(planned)*
+| Certification | Issuing Organization | Status |
+|---------------|----------------------|--------|
+| AWS Certified Cloud Practitioner | Amazon Web Services | In Progress |
+| CompTIA Network+ | CompTIA | In Progress |
+| CompTIA Security+ | CompTIA | Planned |
+| Python for Everybody | University of Michigan (Coursera) | In Progress |
+| Postman API Fundamentals | Postman | Planned |
+| Microsoft Office Specialist (Excel, Word, PowerPoint) | Microsoft | **Completed** |
+| Certified ScrumMaster (CSM) | Scrum Alliance | **Completed** |
 
+---
 
-## 📊 GitHub Stats  
-![Wilfredo's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilrodriguez-portfolio&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wilrodriguez-portfolio&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=wilrodriguez-portfolio&theme=radical&border_radius=4.5)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wilrodriguez-portfolio&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wilrodriguez-portfolio&layout=compact&theme=radical)
 
 ---
 
 ## 🛠 Tools & Technologies
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
-</p>
-
----
-
-## 🛠 Skills & Tools
 
 **Cloud:** AWS, Azure (basics), Google Cloud (basics)  
 **Data:** Power BI, SQL, Python (pandas, matplotlib)  
@@ -65,13 +54,29 @@ Currently expanding into **Cloud Architecture, AI-driven automation, and Cyberse
 
 ---
 
-## 📫 Contact Me
+## 🧰 Skills & Tools
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Word](https://img.shields.io/badge/Word-2B579A.svg?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+
+---
+
+## 📬 Contact Me
 
 - **Email:** [wilrodriguez.portfolio@gmail.com](mailto:wilrodriguez.portfolio@gmail.com)  
-- **LinkedIn:** https://www.linkedin.com/in/wil-rodriguez/  
-
-
-
+- **LinkedIn:** [linkedin.com/in/wil-rodriguez](https://www.linkedin.com/in/wil-rodriguez/)
 
 💡 *This GitHub is dedicated to showcasing my projects, updated weekly.*
+
+
 
