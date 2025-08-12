@@ -1,4 +1,4 @@
-![Portfolio Banner](https://raw.githubusercontent.com/wilrodriguez-portfolio/wilrodriguez-portfolio/main/Black%20Minimalist%20Banner.wilrodriguezportfolio.png)
+![Portfolio Banner]https://raw.githubusercontent.com/wilrodriguez-portfolio/wilrodriguez-portfolio/refs/heads/main/BLack%20Minimalist%20Banner.wilrodriguezportfolio.png
 
 # 👋 Hi, I’m Wilfredo Rodriguez
 
