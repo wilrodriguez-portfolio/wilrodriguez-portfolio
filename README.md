@@ -2,7 +2,9 @@
 
 # 👋 Hi, I’m Wil Rodriguez  
 **IT & Telecom | Cloud | Data | Automation | Project Delivery**  
-Helping organizations design, build, and optimize technology solutions.
+Helping organizations design, deliver, and optimize technology solutions through efficient processes and effective project execution.
+
+With over 20 years in IT and Telecom, I specialize in project delivery, process improvement, and cross-team coordination to ensure initiatives are delivered on time, within scope, and aligned with business goals. My experience spans Telecom infrastructure, cloud adoption, and operational automation, with a proven track record of improving workflows and reducing costs.
 
 ---
 
