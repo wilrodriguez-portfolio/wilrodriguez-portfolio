@@ -1,4 +1,4 @@
-![Portfolio Banner](https://BLack Minimalist Banner.wilrodriguezportfolio.png)
+![Portfolio Banner]BLack Minimalist Banner.wilrodriguezportfolio.png
 
 BLack Minimalist Banner.wilrodriguezportfolio.png
 # 👋 Hi, I’m Wilfredo Rodriguez
