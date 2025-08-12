@@ -1,4 +1,5 @@
-![Portfolio Banner](https://raw.githubusercontent.com/wilrodriguez-portfolio/wilrodriguez-portfolio/main/Black%20Minimalist%20Banner.wilrodriguezportfolio.png)
+![Portfolio Banner](https://raw.githubusercontent.com/wilrodriguez-portfolio/wilrodriguez-portfolio/main/BLAck%20Minimalist%20Banner.wilrodriguezportfolio.png)
+
 
 # 👋 Hi, I’m Wil Rodriguez  
 **IT & Telecom | Cloud | Data | Automation | Project Delivery**  
