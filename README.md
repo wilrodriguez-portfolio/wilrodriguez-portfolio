@@ -1,10 +1,16 @@
 ![Portfolio Banner](https://raw.githubusercontent.com/wilrodriguez-portfolio/wilrodriguez-portfolio/refs/heads/main/BLack%20Minimalist%20Banner.wilrodriguezportfolio.png)
 
-# 👋 Hi, I’m Wil Rodriguez  
-**IT & Telecom | Cloud | Data | Automation | Project Delivery**  
-Helping organizations design, deliver, and optimize technology solutions through efficient processes and effective project execution.
+  # 👋 Hi, I’m Wil Rodriguez  
+**Bridging 20+ years of Telecom leadership with emerging skills in AI, Cloud, and Security.**
 
-With over 20 years in IT and Telecom, I specialize in project delivery, process improvement, and cross-team coordination to ensure initiatives are delivered on time, within scope, and aligned with business goals. My experience spans Telecom infrastructure, cloud adoption, and operational automation, with a proven track record of improving workflows and reducing costs.
+
+**Telecom | Project Management | Process Implementation | Cloud | AI | Security**  
+Helping organizations **design, deliver, and optimize technology solutions** through efficient processes and effective project execution.  
+
+With over 20 years in **IT and Telecom**, I specialize in **project delivery, process improvement, and cross-team coordination** to ensure initiatives are delivered on time, within scope, and aligned with business goals. My expertise spans **Telecom infrastructure, cloud adoption, and operational automation**, with a proven track record of improving workflows and reducing costs.  
+
+Currently expanding into **Cloud Architecture, AI-driven automation, and Cybersecurity**, I am building solutions that combine **data intelligence, secure infrastructure, and innovative technologies** to solve real-world challenges.  
+
 
 ---
 
