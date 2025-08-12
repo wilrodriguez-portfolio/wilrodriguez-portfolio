@@ -35,5 +35,5 @@ Explore my live, interactive portfolio here:
 
 
 
-💡 *This GitHub is dedicated to showcasing my projects for recruiters and employers. Updated weekly.*
+💡 *This GitHub is dedicated to showcasing my projects, updated weekly.*
 
