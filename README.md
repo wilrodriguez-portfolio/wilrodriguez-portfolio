@@ -1,3 +1,5 @@
+![Portfolio Banner]"C:\Users\wilro\Downloads\BLack Minimalist Banner.wilrodriguezportfolio.png"
+
 BLack Minimalist Banner.wilrodriguezportfolio.png
 # 👋 Hi, I’m Wilfredo Rodriguez
 
