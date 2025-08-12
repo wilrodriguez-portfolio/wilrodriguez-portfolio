@@ -1,6 +1,3 @@
-BLack Minimalist Banner.wilrodriguezportfolio.png  
-
-
 # 👋 Hi, I’m Wilfredo Rodriguez
 
 🎯 **Cloud | Data | Automation | Project Delivery**  
