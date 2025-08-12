@@ -1,4 +1,5 @@
-![Portfolio Banner](https://raw.githubusercontent.com/wilrodriguez-portfolio/wilrodriguez-portfolio/main/BannerFileName.png)
+https://raw.githubusercontent.com/wilrodriguez-portfolio/wilrodriguez-portfolio/main/Black%20Minimalist%20Banner.wilrodriguezportfolio.png
+
 
 
 # 👋 Hi, I’m Wilfredo Rodriguez
