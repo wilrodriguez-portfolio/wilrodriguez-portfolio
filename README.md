@@ -60,7 +60,7 @@ Helping organizations design, build, and optimize technology solutions.
 ## 📫 Contact Me
 
 - **Email:** [wilrodriguez.portfolio@gmail.com](mailto:wilrodriguez.portfolio@gmail.com)  
-- **LinkedIn:https://www.linkedin.com/in/wil-rodriguez/  
+- **LinkedIn:** https://www.linkedin.com/in/wil-rodriguez/  
 
 
 
