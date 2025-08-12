@@ -4,7 +4,7 @@
 
 Bridging **20+ years of Telecom leadership** with a forward-looking focus on **AI, Cloud Architecture, and Cybersecurity**.  
 
-**Telecom | Project Management | Process Implementation | Cloud | AI | Security**  
+**IT & Telecom | Project Management | Process Implementation | Cloud | AI | Security**  
 I help organizations **design, deliver, and optimize technology solutions** through efficient processes, strategic project management, and effective execution.  
 
 With over two decades in **IT and Telecom**, I specialize in **project delivery, process improvement, and cross-team coordination** to ensure initiatives are delivered on time, within scope, and aligned with business goals. My expertise spans **Telecom infrastructure, cloud adoption, and operational automation**, with a proven record of improving workflows and reducing costs.  
