@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I’m Wilfredo Rodriguez
 
-<!--
-**wilrodriguez-portfolio/wilrodriguez-portfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Cloud | Data | Automation | Project Delivery**  
+Helping organizations design, build, and optimize technology solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+Explore my live, interactive portfolio here:  
+👉 **[View Projects](https://YOURUSERNAME.github.io)**
+
+| Project | Description | Live Demo | GitHub Repo |
+|---------|-------------|-----------|-------------|
+| Cloud Cost Optimization Dashboard | Power BI dashboard to analyze cloud spend and identify savings. | [Live Demo](#) | [Repo](#) |
+| API Integration Toolkit | Postman + Node.js project for automating data exchange. | [Live Demo](#) | [Repo](#) |
+| AWS Infrastructure Build Series | End-to-end AWS setup with diagrams & automation scripts. | [Live Demo](#) | [Repo](#) |
+
+---
+
+## 🛠 Skills & Tools
+
+**Cloud:** AWS, Azure (basics), Google Cloud (basics)  
+**Data:** Power BI, SQL, Python (pandas, matplotlib)  
+**Dev Tools:** GitHub, Postman, Jira, Confluence, VS Code  
+**Other:** Project Management, Process Automation, Telecom Infrastructure
+
+---
+
+## 📫 Contact Me
+
+- **Email:** [wilrodriguez.portfolio@gmail.com](mailto:wilrodriguez.portfolio@gmail.com)  
+- **LinkedIn:** [Your LinkedIn URL](#)  
+- **Portfolio Site:** [https://YOURUSERNAME.github.io](https://YOURUSERNAME.github.io)  
+
+
+
+💡 *This GitHub is dedicated to showcasing my projects for recruiters and employers. Updated weekly.*
+
