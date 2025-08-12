@@ -12,8 +12,6 @@ With over two decades in **IT and Telecom**, I specialize in **project delivery,
 Now expanding into **AI-driven automation, secure infrastructure, and data intelligence**, I’m building solutions that leverage **emerging technologies** to solve real-world challenges and prepare organizations for the future.
 
 
----
-
 ## 🚀 Featured Projects
 
 🔗 Explore my live, interactive portfolio: [**View Projects**](https://github.com/wilrodriguez-portfolio?tab=repositories)
@@ -23,7 +21,6 @@ Now expanding into **AI-driven automation, secure infrastructure, and data intel
 | **Cloud Cost Optimization Dashboard** | Simulates telecom migration data to showcase cost analysis and dashboarding skills in Power BI. | [Live](#) | [Repo](#) |
 | **AWS Cloud Fundamentals Walkthrough** | End-to-end AWS setup showcasing infrastructure, IAM, and monitoring. | [Live](#) | [Repo](#) |
 
----
 
 ## 🎓 Certifications
 
@@ -37,8 +34,6 @@ Now expanding into **AI-driven automation, secure infrastructure, and data intel
 | Postman API Fundamentals | Postman | Planned |
 | Microsoft Office Specialist (Excel, Word, PowerPoint) | Microsoft | **Completed** |
 | Certified ScrumMaster (CSM) | Scrum Alliance | **Completed** |
-
----
 
 
 ## 🛠 Tools & Technologies
@@ -74,7 +69,6 @@ Now expanding into **AI-driven automation, secure infrastructure, and data intel
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wilrodriguez-portfolio&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wilrodriguez-portfolio&layout=compact&theme=radical)
 
----
 
 
 ## 📬 Contact Me
