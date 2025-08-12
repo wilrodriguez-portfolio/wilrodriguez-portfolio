@@ -30,17 +30,19 @@ Helping organizations design, build, and optimize technology solutions.
 
 ---
 
-## 🛠 Tools & Technologies  
+## 🛠 Tools & Technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
 
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
-![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=power-bi)
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
-![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)
-![Confluence](https://img.shields.io/badge/-Confluence-05122A?style=flat&logo=confluence)
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash&logoColor=white)
 
 
 ---
