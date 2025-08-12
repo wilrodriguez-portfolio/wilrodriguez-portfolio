@@ -1,15 +1,16 @@
 ![Portfolio Banner](https://raw.githubusercontent.com/wilrodriguez-portfolio/wilrodriguez-portfolio/refs/heads/main/BLack%20Minimalist%20Banner.wilrodriguezportfolio.png)
 
-# 👋 Hi, I’m Wil Rodriguez
+## 👋 Hi, I’m Wil Rodriguez  
 
-**Bridging 20+ years of Telecom leadership with emerging skills in AI, Cloud, and Security.**
+Bridging **20+ years of Telecom leadership** with a forward-looking focus on **AI, Cloud Architecture, and Cybersecurity**.  
 
 **Telecom | Project Management | Process Implementation | Cloud | AI | Security**  
-Helping organizations **design, deliver, and optimize technology solutions** through efficient processes and effective project execution.
+I help organizations **design, deliver, and optimize technology solutions** through efficient processes, strategic project management, and effective execution.  
 
-With over 20 years in **IT and Telecom**, I specialize in **project delivery, process improvement, and cross-team coordination** to ensure initiatives are delivered on time, within scope, and aligned with business goals. My expertise spans **Telecom infrastructure, cloud adoption, and operational automation**, with a proven track record of improving workflows and reducing costs.
+With over two decades in **IT and Telecom**, I specialize in **project delivery, process improvement, and cross-team coordination** to ensure initiatives are delivered on time, within scope, and aligned with business goals. My expertise spans **Telecom infrastructure, cloud adoption, and operational automation**, with a proven record of improving workflows and reducing costs.  
 
-Currently expanding into **Cloud Architecture, AI-driven automation, and Cybersecurity**, I am building solutions that combine **data intelligence, secure infrastructure, and innovative technologies** to solve real-world challenges.
+Now expanding into **AI-driven automation, secure infrastructure, and data intelligence**, I’m building solutions that leverage **emerging technologies** to solve real-world challenges and prepare organizations for the future.
+
 
 ---
 
