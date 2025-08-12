@@ -1,27 +1,7 @@
-![Portfolio Banner](https://raw.githubusercontent.com/wilrodriguez-portfolio/wilrodriguez-portfolio/refs/heads/main/BLack%20Minimalist%20Banner.wilrodriguezportfolio.png)
-
-# 👋 Hi, I’m Wil Rodriguez
-
-🎯 **IT & Telecom | Cloud | Data | Automation | Project Delivery**  
-Helping organizations design, build, and optimize technology solutions.
-
-
-## 📂 Featured Projects
-Explore my live, interactive portfolio here:  
-👉 **[View Projects](https://YOURUSERNAME.github.io)**
-
-| Project | Description | Live Demo | GitHub Repo |
-|---------|-------------|-----------|-------------|
-| Cloud Cost Optimization Dashboard | Power BI dashboard to analyze cloud spend and identify savings. | [Live Demo](#) | [Repo](#) |
-| API Integration Toolkit | Postman + Node.js project for automating data exchange. | [Live Demo](#) | [Repo](#) |
-| AWS Infrastructure Build Series | End-to-end AWS setup with diagrams & automation scripts. | [Live Demo](#) | [Repo](#) |
-
----
-
 ![Portfolio Banner](https://raw.githubusercontent.com/wilrodriguez-portfolio/wilrodriguez-portfolio/main/Black%20Minimalist%20Banner.wilrodriguezportfolio.png)
 
-# 👋 Hi, I’m Wilfredo Rodriguez  
-**Cloud | Data | Automation | Project Delivery**  
+# 👋 Hi, I’m Wil Rodriguez  
+**IT & Telecom | Cloud | Data | Automation | Project Delivery**  
 Helping organizations design, build, and optimize technology solutions.
 
 ---
@@ -56,13 +36,6 @@ Helping organizations design, build, and optimize technology solutions.
 </p>
 
 ---
-
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-WilfredoRodriguez-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wilfredo-rodriguez/)  
-[![Portfolio Website](https://img.shields.io/badge/Website-Portfolio-green?style=for-the-badge&logo=internet-explorer)](#)
-
----
-
 
 ## 🛠 Skills & Tools
 
