@@ -32,7 +32,7 @@ Now expanding into **AI-driven automation, secure infrastructure, and data intel
 | AWS Certified Cloud Practitioner | Amazon Web Services | In Progress |
 | CompTIA Network+ | CompTIA | In Progress |
 | CompTIA Security+ | CompTIA | Planned |
-| Python for Everybody | University of Michigan (Coursera) | In Progress |
+| Python for Everybody | University of Michigan (Coursera) | Planned |
 | Postman API Fundamentals | Postman | Planned |
 | Microsoft Office Specialist (Excel, Word, PowerPoint) | Microsoft | **Completed** |
 | Certified ScrumMaster (CSM) | Scrum Alliance | **Completed** |
